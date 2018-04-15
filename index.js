@@ -5,3 +5,4 @@ function updateObjectWithKeyAndValue (obj, key, value) {
   
 }
 
+function destru
