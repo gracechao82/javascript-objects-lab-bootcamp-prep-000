@@ -5,3 +5,9 @@ function updateObjectWithKeyAndValue (obj, key, value) {
   return newObj
   
 }
+
+function updateObjectWithKeyAndValue (obj, key, value) {
+    obj[key] = value
+  return obj
+  
+}
